@@ -2,6 +2,7 @@
 ## Demo
 [![Demo](https://img.youtube.com/vi/vfosYZm6eAw/0.jpg)](https://www.youtube.com/watch?v=vfosYZm6eAw)
 
+## About TheGame
 A text based rogue-like game (very loosely based on Elden Ring) written in Java.<br>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -164,3 +165,6 @@ If the player chooses the Wretch class, they will start with 414 hit points and 
 
 **Resetting the game**
 <img src="Diagrams/ResetGame.png" alt="ResetGame"/>
+
+## Set-up
+Run the application in your IDE of choice 
