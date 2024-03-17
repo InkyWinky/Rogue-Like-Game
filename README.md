@@ -1,9 +1,7 @@
 # Text Based Rogue-like Game
 ## Demo
-[![Demo](https://youtu.be/vfosYZm6eAw)]
+[![Demo](https://img.youtube.com/vi/vfosYZm6eAw/0.jpg)](https://www.youtube.com/watch?v=vfosYZm6eAw)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vfosYZm6eAw?si=p1Iy9gQa4j9Wh5tT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-## About the Game
 A text based rogue-like game (very loosely based on Elden Ring) written in Java.<br>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
